@@ -8,7 +8,7 @@ I'm fullstack dev working  on high-quality frontend backend, and mobile solution
 - 🔭 I’m currently working on fullstack development.
 - 🌱 I’m always learning. 
 - ⚡ Currently mastering: **React, Next.js, Node.js, React Native ,TDD**
-- 📫 How to contact-me: lucas.trabalho1533@gmail.com
+- 📫 How to contact-me: lucas.liduvinosantos@gmail.com
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucas-liduvino-santos-4846a6180/)
 <a href="https://api.whatsapp.com/send?phone=5511930008829" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
